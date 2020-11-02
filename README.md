@@ -1,4 +1,4 @@
-# Plantilla FrontEnd
+# Plantilla FrontEnd con SASS
 ##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
 
 ~~~
@@ -8,6 +8,7 @@ Readme, licencia MIT, gitignore
 Fuentes externas al OS
 Semiestructuras en código
 Comentarios introductorios
+PreCompilador SASS
 ~~~
 
 > Este contenido se ha creado para mís alumnos, que se inician en el maravilloso mundo de la programación.
