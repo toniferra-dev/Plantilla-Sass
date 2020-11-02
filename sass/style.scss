@@ -1,0 +1,26 @@
+/* **************************** */
+/* IMPORTAR PARCIALES PARA COMPILAR */
+/* **************************** */
+
+// Normalizadores de los Navegadores
+@import 'component/reset/normalize';
+@import 'component/reset/reset';
+
+// Variables
+@import 'component/variables';
+
+// Tipografias
+@import 'component/tipografias';
+
+// Mixins
+@import 'component/mixins';
+
+// Layouts
+@import 'component/layouts';
+
+// Grids
+@import 'component/grids';
+
+// Formularios
+@import 'component/formularios';
+
